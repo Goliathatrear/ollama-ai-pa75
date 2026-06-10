@@ -1,4 +1,4 @@
-# 
+# Turbo Ollama extensiones. Con soporte comunitario y IA explicable — optimizado para el máximo rendimiento y eficiencia.
 
 
 
